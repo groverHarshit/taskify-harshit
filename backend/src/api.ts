@@ -23,7 +23,7 @@ const swaggerOptions = {
     swaggerDefinition: {
         openapi: '3.0.0',
         info: {
-            title: 'Shop API',
+            title: 'Task API',
             version: '1.0.0',
             description: 'API documentation for the Shop application',
         },
