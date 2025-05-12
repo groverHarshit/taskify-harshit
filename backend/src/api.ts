@@ -25,7 +25,7 @@ const swaggerOptions = {
         info: {
             title: 'Task API',
             version: '1.0.0',
-            description: 'API documentation for the Shop application',
+            description: 'API documentation for the Task application',
         },
         servers: [
             {
